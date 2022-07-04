@@ -1,0 +1,19 @@
+site_name: Frequently Asked Questions ❔
+theme: readthedocs
+markdown_extensions:
+  - meta
+  - admonition
+  - toc:
+      permalink: true
+  - codehilite:
+      linenums: false
+  - lightgallery
+  - pymdownx.mark
+  - pymdownx.magiclink
+  - pymdownx.details
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.snippets:
+      base_path: '.'
+      check_paths: true 
