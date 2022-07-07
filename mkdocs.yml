@@ -1,5 +1,5 @@
-site_name: Frequently Asked Questions ❔
-theme: readthedocs
+site_name: Frequently Asked Questions
+theme: material
 markdown_extensions:
   - meta
   - admonition
